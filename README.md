@@ -11,6 +11,7 @@
     - [MinNet](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-05126-7) integrates single-cell multi-omics data
     - [TREASMO](https://github.com/ChaozhongLiu/TREASMO) provides toolkits to single-cell multi-omics analysis
     - [SEAGAL](https://github.com/linhuawang/SEAGAL) analyzes gene co-expression and cell-type co-localization in spatial transcriptomics
+    - [AI-MARRVEL](https://github.com/LiuzLab/AI_MARRVEL) predicts the causal variant(s) from the VCF of rare genetic disease patients.
 
 </div>
 <!--
